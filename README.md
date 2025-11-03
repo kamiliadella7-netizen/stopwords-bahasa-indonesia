@@ -1,1 +1,1 @@
-# stopwords-bahasa-indonesia
+makan 
